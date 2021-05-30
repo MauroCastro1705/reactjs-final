@@ -1,0 +1,35 @@
+
+
+ul {
+  list-style-type: none;
+}
+a:link, a:visited {
+
+  text-align: center;
+  text-decoration: none;
+
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+body {
+
+  background-color: linear-gradient(to right, rgb(41, 128, 185), rgb(109, 213, 250), rgb(255, 255, 255));
+  
+ 
+
+  font-family: Arial;
+  text-align: center;
+}
